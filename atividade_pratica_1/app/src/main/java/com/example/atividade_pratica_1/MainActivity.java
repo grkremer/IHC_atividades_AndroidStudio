@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity {
                 else{
                     saida.setText("Insira um número por favor");
                 }
-
-
             }
         });
 
